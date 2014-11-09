@@ -1,0 +1,16 @@
+This file contains database logs
+
+[prod]
+customers
+products
+invoice
+
+[dev]
+customers
+temporary
+customers_dev
+products
+
+[uat]
+
+
