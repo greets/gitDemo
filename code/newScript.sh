@@ -4,7 +4,7 @@
 
 main ()
 {
-echo " "
+echo "NewScript"
 exit 0
 }
 
