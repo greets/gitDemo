@@ -4,7 +4,8 @@
 
 main ()
 {
-echo "NewScript"
+echo "The script name is: "
+echo "$0" | sed 's/^..//'
 exit 0
 }
 
