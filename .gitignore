@@ -1,0 +1,4 @@
+#This is a file to ignore certain types of files from getting staged
+*.tmp
+!temp/*.tmp
+*.log
